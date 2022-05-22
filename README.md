@@ -48,10 +48,13 @@ Top Five Performing Schools:
         ![Png 7](Resources/Reading_Scores_by_Grade.png)
     
     * Scores by school spending:
+        There is no significant change in scores by school spending.
         ![Png 8](Resources/Scores_by_School_Spending.png)
     
     * Scores by school size:
+        There is no significant change in scores by school size.
         ![Png 9](Resources/Scores_by_School_Size.png)
     
     * Scores by school type:
+        There is no significant change in scores by school type.
         ![Png 10](Resources/Scores_by_School_Type.png)
